@@ -1,0 +1,73 @@
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+.buttoncolor{
+  background-color: #C69749;
+  color: black;
+  font-weight: 900;
+  letter-spacing: 2px;
+  font-size: 16px;
+}
+
+.buttoncolor:hover{
+  background-color: #735F32;
+}
+
+/* landing page */
+.bgdefault{
+  background-image: url("../src/assets/images/yellowbg.jpg");
+  min-height:100vh; 
+}
+li{
+  background-color: #FAD200;
+  
+  font-weight: 600;
+  letter-spacing: 2px;
+  font-size: 16px;
+  margin: 0 1px;
+  
+}
+li:hover {
+  background-color: #735F32;
+  border-radius: 50px;
+  color: rgb(137, 99, 42);
+}
+
+li a{
+  color: black;
+  
+}
+li a:hover{
+  color: rgb(179, 166, 147)!important;
+}
+
+input[type="text"] {
+
+  background-color : #ecef58; 
+
+}
+input[type="password"] {
+
+  background-color : #ecef58; 
+
+}
+input[type="email"] {
+
+  background-color : #ecef58; 
+
+}
