@@ -8,6 +8,7 @@ https://user-images.githubusercontent.com/107856471/206387179-d250e0b7-cf25-48e1
 ![jsicon](https://user-images.githubusercontent.com/107856471/206396279-aeb2efda-30e2-441e-9c9a-442dfe92a392.png)
 ![bootstrapicon](https://user-images.githubusercontent.com/107856471/206396297-06240d6c-54d4-49d6-b279-9398cd4f6602.png)
 ![reacticon](https://user-images.githubusercontent.com/107856471/206396317-f4001c3e-a497-4257-bbf2-ec1c992fdb73.png)
+![reduxicon](https://user-images.githubusercontent.com/107856471/206396987-4d31413e-20f0-41ca-9036-afd36faf882f.png)
 
 
 
