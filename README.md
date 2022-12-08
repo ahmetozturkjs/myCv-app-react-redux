@@ -10,7 +10,6 @@ https://user-images.githubusercontent.com/107856471/206387179-d250e0b7-cf25-48e1
 ![reacticon](https://user-images.githubusercontent.com/107856471/206396317-f4001c3e-a497-4257-bbf2-ec1c992fdb73.png)
 ![reduxicon](https://user-images.githubusercontent.com/107856471/206397458-7cfb070a-898a-40eb-ba30-e3938f5879bd.png)
 ![axiosicon](https://user-images.githubusercontent.com/107856471/206397953-60a909dd-a551-4a34-b9d3-6bc1abef6ae3.png)
-![routericon](https://user-images.githubusercontent.com/107856471/206399027-312f2594-bde7-4b68-89b7-f1d56c4fb03d.jpg)
 ![routericon](https://user-images.githubusercontent.com/107856471/206399802-10d56134-1dab-431d-bb95-592e678f0d28.jpg)
 
 
