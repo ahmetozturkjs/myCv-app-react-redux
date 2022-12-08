@@ -3,6 +3,8 @@
 
 https://user-images.githubusercontent.com/107856471/206387179-d250e0b7-cf25-48e1-9325-915b93d24fa9.mp4
 
+  ---------------Used technologies------------
+
 ![htmlicon](https://user-images.githubusercontent.com/107856471/206396255-89ad418f-a5cd-4edf-8476-14fe0d9f85e8.png)
 ![cssicon](https://user-images.githubusercontent.com/107856471/206396266-a1fb92d5-b9ec-4a91-858e-2cd3f3e7ac60.png)
 ![jsicon](https://user-images.githubusercontent.com/107856471/206396279-aeb2efda-30e2-441e-9c9a-442dfe92a392.png)
