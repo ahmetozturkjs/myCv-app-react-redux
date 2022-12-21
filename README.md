@@ -16,7 +16,14 @@ https://user-images.githubusercontent.com/107856471/206387179-d250e0b7-cf25-48e1
 
 
 
+----------Project description--------
+--You can create, edit or delete your CV, You can save your CV on the website for later use. You can customize your profile, you can print your CV
 
+
+-Login management with different users
+-Keeping the entered data safe and confidential by the backend
+-Implementing LifeCycle methods with React redux
+-State management implementation
 
 
 # Getting Started with Create React App
